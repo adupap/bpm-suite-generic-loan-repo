@@ -6,7 +6,14 @@ Install the application into JBoss BPM Suite
 
 Note: JBoss BPM Suite (can be downloaded from https://access.redhat.com/) is already installed.
 
-Before starting the installation add the loanOfficer role to the user which is used to login in Business Central.
+Pre-Install: 
+
+1. add the loanOfficer role to the user which is used to login in Business Central.
+2. Also Make sure it also has the role admin.
+
+
+
+Steps:
 
 1. Open the Business Central (ex. http://<your_ip>:<port>/business-central)
 2. Login (u:erics / p:bpmsuite)
